@@ -18,6 +18,16 @@ brew "exa"
 brew "ghq"
 brew "peco"
 
+# for app developmenj
+# brew "watchmanj
+# cask "flutter"
+# cask "adoptopenjdk/openjdk/adoptopenjdk8"
+# cask "android-studio"
+# cask "android-sdk"
+# cask "android-platform-tools"
+# cask "intel-haxm"
+# cask "android-commandlinetools"
+
 # brew cask install dev-tools
 cask "iterm2"
 cask "postman"
